@@ -18,7 +18,17 @@
         "name": "(GMT-11:00) Pago Pago, Tāfuna, Ta`ū, Taulaga",
         "utc": "-11:00"
     },
-    
+            {
+        "label": "Pacific/Pago_Pago (GMT-11:00)",
+        "tzCode": "Pacific/Pago_Pago",
+        "name": "(GMT-11:00) Pago Pago, Tāfuna, Ta`ū, Taulaga",
+        "utc": "-11:00"
+    },        {
+        "label": "Pacific/Pago_Pago (GMT-11:00)",
+        "tzCode": "Pacific/Pago_Pago",
+        "name": "(GMT-11:00) Pago Pago, Tāfuna, Ta`ū, Taulaga",
+        "utc": "-11:00"
+    },
     {
         "label": "Pacific/Pago_Pago (GMT-11:00)",
         "tzCode": "Pacific/Pago_Pago",
